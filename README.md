@@ -1,4 +1,4 @@
 # mime_editor
 SMIM editor in ABAP
 
-![screenshot](https://github.com/larshp/mime_editor/raw/master/docs/mime.png)
+![screenshot](https://github.com/stekoester/mime_editor_orig/raw/master/docs/mime.png)
